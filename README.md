@@ -20,8 +20,8 @@ Please note that we cannot accommodate participants under the age of 14.
 
 It is very important that we are able to contact you to check on your wellbeing, and that we have made contact with a parent/guardian to ensure that they also understand the nature of our event, our policies, and can reach them should we need to.
 
-**If you are under 18,** please read our [Safeguarding Policy](Safeguarding.md) and then fill out the [Hack the Police 4 Safeguarding form](https://forms.gle/JWf7kzPb3yAkdnKG8).
+**If you are under 18,** please read our [Safeguarding Policy](Safeguarding.md) and then fill out the [Hack the Police 4 Safeguarding form](http://bit.ly/HTP4-safeguarding-youths).
 
-**If you are the parent of a youth attending our event,** please read our [Safeguarding Policy](Safeguarding.md) and then fill out the [Hack the Police 4 parent/guardian contact form]().
+**If you are the parent of a youth attending our event,** please read our [Safeguarding Policy](Safeguarding.md) and then fill out the [Hack the Police 4 parent/guardian contact form](http://bit.ly/HTP4-safeguarding-adults).
 
 Thank you!
